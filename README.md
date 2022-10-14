@@ -1,2 +1,2 @@
 # Transfer Learning
-## We demonstarte why first few layers are frozen during the initial epochs of transfer learning.
+## We demonstrate why the first few layers are frozen during the initial epochs of transfer learning.
